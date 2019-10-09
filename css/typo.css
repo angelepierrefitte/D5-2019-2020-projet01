@@ -1,0 +1,246 @@
+
+
+h1{
+  font-family: 'Muli';
+  font-size: 4em;
+  color:#FFFF;
+  text-align:center;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:10%;
+  font-weight: bold;
+  line-height: normal;
+}
+
+h2{
+  font-family: 'Muli', "200";
+  font-size: 2em;
+  color:#FFFF;
+  text-align:center;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top:5%;
+  margin-bottom: 58px;
+  line-height:35px;
+}
+
+
+h4 span {
+background-color: black;
+color: #FFFF;
+height: 1em;
+width: 100%;
+
+}
+
+.bandeau {
+  background-color: black;
+  color: white;
+  font-family: 'Muli', '900';
+  font-size: 25px;
+  text-align: center;
+  position: fixed;
+  background-size: cover;
+}
+
+h3{
+  font-family: 'Muli', "200";
+  font-size: 1em;
+  color:black;
+  text-align:center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top:2%;
+  margin-bottom: 2%;
+text-align: justify;
+line-height: 35px;
+}
+
+h4{
+  font-family: 'Muli', "900";
+  font-size: 3em;
+  color:black;
+  text-align:center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top:2%;
+text-align: left;
+line-height: inherit;
+}
+
+.h4-spec {
+  font-family: 'Muli', "900";
+  font-size: 3em;
+  color:black;
+  text-align:center;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top:2%;
+text-align: left;
+line-height: 0.5em;
+
+}
+
+
+h5{
+  font-family: 'Muli', "900";
+  font-size: 64em;
+  color:white;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top:0%;
+  line-height: inherit;
+text-align: left;
+background-color: black;
+}
+
+
+h6{
+  font-family: 'Muli', "900";
+  font-size: 25px;
+  color:black;
+  text-align:left;
+  margin-left: 25%;
+  margin-right: 25%;
+text-align: left;
+line-height:inherit;
+text-decoration-line: underline;
+
+}
+
+p {
+  font-family: 'Muli', "200";
+  font-size: 1em;
+  text-align: center;
+  color:#FFFF;
+  line-height: normal;
+  line-height:55px;
+}
+
+
+.image {
+width: 100vw;
+}
+
+.enfants {
+align-items: center;
+height: auto;
+width: 50%;
+margin-left: 25%;
+
+}
+
+
+.nosferatu {
+  margin-top: 5%;
+align-items: center;
+height: auto;
+width: 50%;
+margin-bottom:0%;
+
+}
+
+
+.bandeau {
+  margin-top: 0%;
+align-items: center;
+height: auto;
+width: 100%;
+margin-bottom:0%;
+
+}
+
+.bibliotheque {
+  margin-top: 5%;
+align-items: center;
+height: auto;
+width: 50%;
+margin-bottom:0%;
+
+}
+
+.bibli {
+  margin-top: 5%;
+align-items: center;
+height: auto;
+width: 30%;
+margin-bottom:0%;
+
+}
+
+.hemingway {
+  align-items: center;
+  height: auto;
+  width: 50%;
+  margin-left: 25%;
+
+  }
+
+  .encre {
+    margin-top: 5%;
+    align-items: center;
+    height: auto;
+    width: 5%;
+    margin-left: 10%;
+
+    }
+
+    .books {
+      margin-top: 5%;
+    align-items: center;
+    height: auto;
+    width: 50%;
+    margin-bottom:0%;
+
+      }
+
+    .encre2{
+      margin-top: -8%;
+      align-items: right;
+      height: auto;
+      width: 5%;
+      margin-left: 70%;
+
+      }
+
+      .encre3{
+        margin-top: -78%;
+        align-items: right;
+        height: auto;
+        width: 125%;
+        margin-left: 390%;
+
+        }
+
+
+        .encre4{
+          margin-top: -78%;
+          align-items: right;
+          height: auto;
+          width: 75%;
+          margin-left: 390%;
+
+          }
+
+
+          .signature{
+            margin-top: 8;
+            align-items: right;
+            height: auto;
+            width:155%;
+            margin-left: 390%;
+
+            }
+
+            .encre5{
+
+              align-items: right;
+              height: auto;
+              width: 55%;
+              margin-left: 500%;
+
+              }
+
+      .images {
+      width: 100px;
+      }
